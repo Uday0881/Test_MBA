@@ -5,3 +5,10 @@ dist
 *.log
 *.msi
 mongodb-installer.msi
+
+
+*.msi
+*.exe
+*.zip
+node_modules/
+.env
